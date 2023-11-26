@@ -42,7 +42,7 @@ type PropsType=
 
 function App() {
     const [todos, setTodos] = useState<Array<PropsType>>([])
-
+    
     const getPosts = () => {
         axios
             .get('https://jsonplaceholder.typicode.com/todos')
