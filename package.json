@@ -2,7 +2,7 @@
   "name": "examinations",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dnisaev.github.io/homework-ps",
+  "homepage": "https://dnisaev.github.io/homework-s1-ps",
   "dependencies": {
     "@babel/core": "7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.3",
